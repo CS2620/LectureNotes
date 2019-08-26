@@ -15,3 +15,4 @@
 * ![Thor Final](./images/endgame-effects-thor3-2560x9999.jpg?resize=800%2C421&ssl=1)
 
 (Thor images originally posted on [AnimationBoss.net](http://www.animationboss.net/avengers-endgame-vfx/) are and copyright Marvel.)
+* ![Day 1 Handwritten Notes](./images/Day1Notes.png)
