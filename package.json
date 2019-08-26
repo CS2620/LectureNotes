@@ -3,4 +3,8 @@
   "version": "1.0.0",
   "repository": "https://github.com/CS2620/LectureNotes.git",
   "author": "B Ricks <bricks@unomaha.edu>",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
 }
