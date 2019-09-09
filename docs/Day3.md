@@ -13,3 +13,6 @@
 
 [Day 3 Code](https://github.com/CS2620/hsv)
 
+### Extracting Colors using Shifting and Masking
+
+![Lecture Notes](./images/LectureNotes03.png)
