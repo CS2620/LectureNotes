@@ -1,5 +1,7 @@
 # 2D Graphics
 
+[Newer Website](https://two.ricks.io/Universal)
+
 ![Image Processing Splash Image](./images/ImageProcessingBright.png)
 
 This is the homepage for  CSCI 2620, 2D Graphics: Image Processing, a computer science course at the University of Nebraska at Omaha.
