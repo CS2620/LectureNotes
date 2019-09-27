@@ -1,6 +1,6 @@
 # 2D Graphics
 
-[Newer Website](https://two.ricks.io/Universal)
+[Newer Website](https://ricks.io/landing.html)
 
 ![Image Processing Splash Image](./images/ImageProcessingBright.png)
 
